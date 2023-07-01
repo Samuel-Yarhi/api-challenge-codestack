@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/api-challenge-codestack/static/css/main.749cfc5a.css",
+    "main.js": "/api-challenge-codestack/static/js/main.9e833fbf.js",
+    "static/media/color.png": "/api-challenge-codestack/static/media/color.6441e63a57ccc5105bad.png",
+    "index.html": "/api-challenge-codestack/index.html",
+    "main.749cfc5a.css.map": "/api-challenge-codestack/static/css/main.749cfc5a.css.map",
+    "main.9e833fbf.js.map": "/api-challenge-codestack/static/js/main.9e833fbf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.749cfc5a.css",
+    "static/js/main.9e833fbf.js"
+  ]
+}
